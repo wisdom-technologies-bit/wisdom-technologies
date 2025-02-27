@@ -1,0 +1,9 @@
+{
+  "appId": "com.wisdomtechnologies.app",
+  "appName": "Wisdom Technologies",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}
+
